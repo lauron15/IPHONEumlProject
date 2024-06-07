@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T13:44:28.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="llGRXbHMyoD6WoPXyegC" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T13:47:34.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fxpBMi8ATpfoB9NclIfR" version="24.2.8" type="github">
   <diagram name="Página-1" id="RkdtyldeLLYBpPvGMGfw">
-    <mxGraphModel dx="2927" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1859" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kAYmLj9WjToZqsz8n3UT-1" value="Iphone&lt;div&gt;-------------------------------------------&lt;/div&gt;&lt;div&gt;implements Aparelho Telefonico, Navegador na internet, reprodutor musical&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAYmLj9WjToZqsz8n3UT-1" value="Iphone&lt;div&gt;-------------------------------------------&lt;/div&gt;&lt;div&gt;implements Aparelho Telefonico, Navegador na internet, reprodutor musical&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-560" y="490" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kAYmLj9WjToZqsz8n3UT-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kAYmLj9WjToZqsz8n3UT-2">
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAYmLj9WjToZqsz8n3UT-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAYmLj9WjToZqsz8n3UT-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="-330" y="260" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kAYmLj9WjToZqsz8n3UT-16" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="kAYmLj9WjToZqsz8n3UT-15">
